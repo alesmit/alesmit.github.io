@@ -13,7 +13,8 @@
             "description": "Element 1.2",
             "children": [
               {
-                "description": "Element 1.2.1",
+                "description": "Element 1.2.1 with tooltip",
+                "tooltip": "Hey, I'm a tooltip",
                 "children": []
               }
             ]
